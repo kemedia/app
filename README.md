@@ -5,7 +5,7 @@
 <description></description>
 <link>http://www.yourweb.com</link>
 <item>
-<title>New Update 1/27/2017. Please Click on KE Updater to Update. For premium IPTV join TeamEXPAT IPTV over 400 channels. Contact EJ for details </title>
+<title>New Update 1/31/2017. Please Click on KE Updater to Update. For premium IPTV join TeamEXPAT IPTV over 400 channels. Contact EJ for details </title>
 <description> Enjoy </description>
 <link>http://www.yourweb.com</link>
 </channel>
