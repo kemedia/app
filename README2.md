@@ -7,7 +7,7 @@ Some changes were:
 2. bug fixes
 3. Change of layout for enhanced user experience
 
-If you want premium TV service (over 400+ channels) please contact EJ for details. 
+For premium TV service (over 400+ channels) please contact EJ for details. 
 
 Have a Great day!
 
