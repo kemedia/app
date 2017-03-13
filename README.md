@@ -5,7 +5,7 @@
 <description></description>
 <link></link>
 <item>
-<title>New Update 3/03/2017. Please close the Media Center properly and click on "KE Updater". Tip of the Day: Let it load when clicking on item on the submenu as it takes a few seconds to fetch the content. Contact us at: kestreamsolutions@gmail.com</title>
+<title>New Update 3/13/2017. Please press "Quit" on KE Media Center and click on "KE Updater". Contact us at: kestreamsolutions@gmail.com</title>
 <description></description>
 <link></link>
 </channel>
