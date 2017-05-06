@@ -1,4 +1,4 @@
-6
+7
 ||| 
 ::::5/06/2017::::
 Please click on "Quit" and click on  "KE Updater" on main menu. After update, allow images and thumbnails to load.
