@@ -5,7 +5,12 @@
 <description></description>
 <link></link>
 <item>
-<title>New Update 5/25/2017. Please press "Quit" on KE Media Center and click on "KE Updater". Contact us at: kestreamsolutions@gmail.com</title>
+<title>
+New Update 5/31/2017.
+
+**NEW UPDATE** **NEW UPDATE** *NEW UPDATE**
+
+Please press "Quit" on KE Media Center and click on "KE Updater". Contact us at: kestreamsolutions@gmail.com</title>
 <description></description>
 <link></link>
 </channel>
