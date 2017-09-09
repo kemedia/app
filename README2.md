@@ -1,15 +1,15 @@
-18
+19
 ||| 
-::::9/05/2017::::
+::::9/09/2017::::
 
-NEW Update 9/05/2017
+NEW Update 9/09/2017
 
 Please click on "Quit" and click on  "KE Updater". After update, allow images and thumbnails to load.
 
-Version 1.8
-  1. Removed Password from NET TV Elite
-  2. Removed addons
-  3. Cleaned up system - Faster and more efficient
+Version 1.9
+ 1. Fixed Crashing issue in media center.
+      - When it crashes be sure to clear cache in settings -> apps --> kemedia center
+      - Also, properly close the media center by pressing "Quit"
 
 Have a Great day!
 
